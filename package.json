@@ -1,0 +1,12 @@
+{
+  "name": "pet-service-miniapp",
+  "version": "1.0.0",
+  "description": "宠物服务小程序",
+  "main": "main.js",
+  "scripts": {
+    "dev": "echo 'Please use HBuilder X to run'"
+  },
+  "dependencies": {
+    "pinia": "^2.1.7"
+  }
+}

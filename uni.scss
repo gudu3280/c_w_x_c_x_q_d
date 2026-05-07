@@ -1,0 +1,75 @@
+/**
+ * 星露谷物语风格 - 像素风主题变量
+ */
+
+/* 星露谷配色 - 温暖的田园色调 */
+$stardew-green: #4CAF50;        // 草地绿
+$stardew-dark-green: #2E7D32;   // 深林绿
+$stardew-brown: #6D4C41;        // 木头棕
+$stardew-dark-brown: #3E2723;   // 深棕
+$stardew-gold: #FFC107;         // 金币黄
+$stardew-orange: #FF8F00;       // 南瓜橙
+$stardew-blue: #42A5F5;         // 天空蓝
+$stardew-cream: #FFF8E1;        // 奶油白（背景）
+$stardew-sand: #F5E6CC;         // 沙地色
+$stardew-red: #E53935;          // 浆果红
+$stardew-purple: #7B1FA2;       // 紫水晶
+
+/* 行为相关颜色 */
+$uni-color-primary: $stardew-green;
+$uni-color-success: $stardew-dark-green;
+$uni-color-warning: $stardew-gold;
+$uni-color-error: $stardew-red;
+
+/* 文字基本颜色 */
+$uni-text-color: $stardew-dark-brown;
+$uni-text-color-inverse: $stardew-cream;
+$uni-text-color-grey: #8D6E63;
+$uni-text-color-placeholder: #A1887F;
+$uni-text-color-disable: #BCAAA4;
+
+/* 背景颜色 */
+$uni-bg-color: $stardew-cream;
+$uni-bg-color-grey: $stardew-sand;
+$uni-bg-color-hover: #EFEBE9;
+$uni-bg-color-mask: rgba(62, 39, 35, 0.6);
+
+/* 边框颜色 */
+$uni-border-color: $stardew-brown;
+
+/* 尺寸变量 */
+$uni-font-size-sm: 12px;
+$uni-font-size-base: 14px;
+$uni-font-size-lg: 16px;
+
+/* 图片尺寸 */
+$uni-img-size-sm: 20px;
+$uni-img-size-base: 26px;
+$uni-img-size-lg: 40px;
+
+/* Border Radius - 像素风用小圆角或直角 */
+$uni-border-radius-sm: 2px;
+$uni-border-radius-base: 4px;
+$uni-border-radius-lg: 6px;
+$uni-border-radius-circle: 50%;
+
+/* 水平间距 */
+$uni-spacing-row-sm: 5px;
+$uni-spacing-row-base: 10px;
+$uni-spacing-row-lg: 15px;
+
+/* 垂直间距 */
+$uni-spacing-col-sm: 4px;
+$uni-spacing-col-base: 8px;
+$uni-spacing-col-lg: 12px;
+
+/* 透明度 */
+$uni-opacity-disabled: 0.3;
+
+/* 文章场景相关 */
+$uni-color-title: $stardew-dark-brown;
+$uni-font-size-title: 20px;
+$uni-color-subtitle: $stardew-brown;
+$uni-font-size-subtitle: 26px;
+$uni-color-paragraph: #5D4037;
+$uni-font-size-paragraph: 15px;
